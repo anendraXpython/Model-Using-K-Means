@@ -36,8 +36,9 @@ This makes it useful for discovering hidden structures in large datasets.
 ---
 
 # 📸 Output Screenshot
+![Image Name](1754656266347.jng)
 
-
+![Image Name](images/output.png)
 
 
 ---
