@@ -36,9 +36,9 @@ This makes it useful for discovering hidden structures in large datasets.
 ---
 
 # 📸 Output Screenshot
-![Image Name](1754656266347.jng)
+<img width="340" height="486" alt="1754656266558" src="https://github.com/user-attachments/assets/074c7f76-ae08-49b5-b33c-fd4915a2bb29" />
+<img width="478" height="222" alt="1754656266347" src="https://github.com/user-attachments/assets/52d125ec-3d48-42bb-b0bf-d85bfda3776c" />
 
-![Image Name](images/output.png)
 
 
 ---
